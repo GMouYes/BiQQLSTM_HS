@@ -12,3 +12,6 @@ Things to note:
  5. We tried our best in recovering these posts and applied our own filtering criteria. One may check our paper for detailed processes.
 
 Do not use or share these data for any commercial usage.
+
+An overlook to the recovered data.
+![Dataset](https://github.com/GMouYes/BiQQLSTM_HS/blob/main/data/dataset.jpg)
