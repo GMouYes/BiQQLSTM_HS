@@ -1,7 +1,7 @@
 Assumptions:
  - You have one gpu as cuda:0.
  - You have the required packages installed. (check all the imports before you start running the code plz, expecially the NeuronBlocks and Pytorch-Quaternion-Neural-Networks, then modify the path in ``qqrnn.py``)
- - You modified the path in data.py, redirected them to your desired files.
+ - You splitted the data in data.csv and modified the path in data.py, redirected them to your desired files.
  - You would like the random seed as 1. 
  - You would like the outputs redirected to results.out
 
