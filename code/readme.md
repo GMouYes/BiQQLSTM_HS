@@ -6,7 +6,7 @@ Assumptions:
  - You would like the outputs redirected to results.out
 
 Run the code with:
- - ``CUDA_VISIBLE_DEVICES=0 nohup python3 -u biQQLSTM.py 1 > results.out``
+ - ``CUDA_VISIBLE_DEVICES=0 nohup python3 -u biQQLSTM.py 1 > results.out &``
 
 Final outcome:
  - Results will be printed in results.out
