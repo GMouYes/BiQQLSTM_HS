@@ -13,5 +13,5 @@ Things to note:
 
 Do not use or share these data for any commercial usage.
 
-An overlook to the recovered data.
+An overlook to the recovered data: <br>
 ![Dataset](https://github.com/GMouYes/BiQQLSTM_HS/blob/main/data/dataset.jpg)
