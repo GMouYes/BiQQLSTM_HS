@@ -7,4 +7,4 @@ Code and data for paper: <br>
 
 Contact [gmou@wpi.edu](gmou@wpi.edu) for more questions, I will be more than glad to reply!
 
-Note: NeuronBlocks and Pytorch-Quaternion-Neural-Networks are not written by us, please check their own github page for their credits. Everything we wrote is under folder ``code``. 
+Note: Everything we wrote is under folder ``code``. 
