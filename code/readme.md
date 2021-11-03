@@ -14,7 +14,7 @@ Final outcome:
  - Hypers will be stored in ``hyper.pkl``
  - ground truth and predictions are in two separate npy files.
 
-Our best hypers are shown below:
+Our best hypers are shown below:<br>
 ![Hyperparameters](https://github.com/GMouYes/BiQQLSTM_HS/blob/main/code/hypers.jpg)
 
 Note:
