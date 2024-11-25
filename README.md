@@ -1,7 +1,7 @@
 # BiQQLSTM_HS
 
 Code and data for paper: <br>
- - Title: ``An Effective, Robust and Fairness-awareHate Speech Detection Framework``.
+ - Title: [``An Effective, Robust and Fairness-awareHate Speech Detection Framework``](https://scholar.google.com/scholar_url?url=https://ieeexplore.ieee.org/abstract/document/9672022/&hl=en&sa=T&oi=gsb&ct=res&cd=0&d=7094454881296925581&ei=iAFFZ9SdKO3Iy9YPxOOLgAs&scisig=AFWwaeaYwAXirEhCWsgti4ZU0MQK).
  - Authors: [Guanyi Mou](https://scholar.google.com/citations?user=OdJ_YZMAAAAJ&hl=en) and [Kyumin Lee](https://web.cs.wpi.edu/~kmlee/)
  - Conference: ``IEEE BigData 2021``
 
